@@ -6,13 +6,13 @@ RFM analysis measures customers in each category, according to Troy Segal’s ar
 # WHY RFM
 According to the Pareto principle, quite often 80 % of all results are based on 20% of actions/measures, which is why it’s also known as the “80/20 principle”. In marketing, the Pareto principle is often interpreted to mean that 80 % of the revenue is based on 20 % of the total customer base. RFM thereby determines characteristics that make up loyal, high-revenue customers.
 Therefore, segmenting the customers who have different effects on the system is important in customer-based marketing. In this way, it can be ensured that the churn customer rejoins the system, the loyalty of the customers who have just entered the system is increased, or the customers who have been in the system for a long time feel more valuable.
-# .Recency
+## .Recency
 Customers who have just purchased something are more likely to be loyal than customers whose last purchase was months or even years ago
 
-# .Frequency
+## .Frequency
 .Loyal customers buy more frequently from a company. Accordingly, the value of purchase frequency is higher for them than for other customers.
 
-# .Monetary Value
+## .Monetary Value
 Loyal customers often spend more money with their favorite companies than other customers. They can be motivated, for example, by promotions, product recommendations and offers. 
 
 # Data Set
