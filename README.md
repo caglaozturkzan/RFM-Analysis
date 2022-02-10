@@ -19,11 +19,11 @@ Loyal customers often spend more money with their favorite companies than other 
 The dataset includes the sales of an online store between 2009 and 2011.
 
 #Variables
-Invoice — Invoice Number “If this code starts with C, it means that the operation has been cancelled..”
-StockCode — Product code “Unique number for each product.” 
-Description — Product Description
-Quantity — Number of products purchased
-InvoiceDate — Invoice Date
-Price — Unit price(Sterling)
-CustomerID - Unique number for each customer
-Country — Name of the country 
+#Invoice — Invoice Number “If this code starts with C, it means that the operation has been cancelled..”
+#StockCode — Product code “Unique number for each product.” 
+#Description — Product Description
+#Quantity — Number of products purchased
+#InvoiceDate — Invoice Date
+#Price — Unit price(Sterling)
+#CustomerID - Unique number for each customer
+#Country — Name of the country 
